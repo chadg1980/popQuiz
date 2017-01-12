@@ -7,5 +7,31 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="radioButtonStyle" parent="Base.Widget.AppCompat.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@color/colorPrimary</item>
 
+
+
+    </style>
+    <style name="questionNumberStyle" >
+        <item name="android:textSize">25dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">@color/textGray</item>
+
+    </style>
+    <style name="questionText">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+    <style name="linearLayoutMain">
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:background">@color/colorPrimary</item>
+
+    </style>
 </resources>

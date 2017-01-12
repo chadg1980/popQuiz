@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">PopQuiz</string>
+    <string name="app_name">Pop Quiz Seattle</string>
+    <string name="title">"How well do you know Seattle?"</string>
+    <string name="question1">How tall in feet is the space needle?</string>
+    <string name="question2">What is the name of this iconic mountain south of Seattle?</string>
+    <string name="question3">Which of these bands got their start in Seattle?</string>
+    <string name="question4">Which years did Seattle host the World\'s Fair?</string>
+    <string name="question5">Which Cameeron Crowe movie is set in Seattle?</string>
+    <string name="question">Question 1</string>
 </resources>
