@@ -1,5 +1,4 @@
 <resources>
-
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
@@ -12,15 +11,11 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_weight">1</item>
         <item name="android:background">@color/colorPrimary</item>
-
-
-
     </style>
     <style name="questionNumberStyle" >
         <item name="android:textSize">25dp</item>
         <item name="android:textColor">#FFFFFF</item>
         <item name="android:background">@color/textGray</item>
-
     </style>
     <style name="questionText">
         <item name="android:textColor">#FFFFFF</item>
